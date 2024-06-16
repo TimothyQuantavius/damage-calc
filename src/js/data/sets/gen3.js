@@ -3,7 +3,7 @@ var SETDEX_ADV = {
     "OU Standard": {"ability":"Marvel Scale","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Surf","Recover","Toxic","Refresh"]}
   },
   "Ivysaur": {
-    "PU Specially Defensive": {"ability":"Overgrow","item":"Leftovers","nature":"Calm","ivs":{"at":2,"sa":30},"evs":{"hp":252,"sd":224,"sp":32},"moves":["Leech Seed","Sleep Powder","Synthesis","Hidden Power Grass"]},
+    "Rival Terry #2": {"ability":"Overgrow","item":"Sitrus Berry","nature":"Calm","ivs":{"hp":31,"df":31,"at":31,"df":31,"sa":31,"sp":31},"evs":{"hp":0,"sd":0,"sp":0},"moves":["Magical Leaf","Toxic","Sludge Bomb","Synthesis"]},
     "PU Bulky Setup Sweeper": {"ability":"Overgrow","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":224,"sp":32},"moves":["Leech Seed","Synthesis","Swords Dance","Sludge Bomb"]}
   },
   "Venusaur": {
