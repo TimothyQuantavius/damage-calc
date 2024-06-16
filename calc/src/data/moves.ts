@@ -130,7 +130,7 @@ const RBY: {[name: string]: MoveData} = {
   Substitute: {bp: 0, category: 'Status', type: 'Normal'},
   'Super Fang': {bp: 1, type: 'Normal'},
   Swift: {bp: 60, type: 'Normal'},
-  'Take Down': {bp: 90, type: 'Normal', recoil: [1, 4]},
+  'Head Smash': {bp: 150, type: 'Rock', recoil: [1, 4]},
   Thrash: {bp: 90, type: 'Normal'},
   Thunder: {bp: 120, type: 'Electric'},
   'Thunder Wave': {bp: 0, category: 'Status', type: 'Electric'},
