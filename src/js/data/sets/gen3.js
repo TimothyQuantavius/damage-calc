@@ -801,6 +801,7 @@ var SETDEX_ADV = {
     "OU Utility": {"ability":"Water Absorb","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":164,"sa":92},"moves":["Ice Beam","Thunderbolt","Toxic","Roar"]},
     "UU Offensive Utility": {"ability":"Water Absorb","item":"Leftovers","nature":"Modest","evs":{"df":120,"sa":252,"sp":136},"moves":["Hydro Pump","Ice Beam","Thunderbolt","Heal Bell"]},
     "UU Curse": {"ability":"Shell Armor","item":"Leftovers","nature":"Sassy","evs":{"hp":252,"df":80,"sd":176},"moves":["Curse","Return","Surf","Rest"]}
+    "Beauty Grace": {"ability":"Water Absorb","item":"Never Melt Ice","nature":"Hardy","moves":[Icy Wind","Thunderbolt","Ice Beam","Muddy Water"]}
   },
   "Ditto": {
     "NU Transform": {"ability":"Limber","item":"Metal Powder","nature":"Impish","evs":{"hp":252,"df":128,"sd":128},"moves":["Transform"]}
